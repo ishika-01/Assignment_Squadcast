@@ -31,15 +31,11 @@ CREATE TABLE ratings (
 ```
 5. Import data from "movies.csv" and "ratings.csv" to the tables created.
 6. Verify if the data is imported successfully in both the tables using the following commands in SQL query tool:
-    ```
-SELECT * FROM movies;
-```
+```SELECT * FROM movies;```
 and
- ```
-SELECT * FROM ratings;
-```
+```SELECT * FROM ratings;```
 
 ### Connecting jupyter notebook to postgresql database for accessing the tables and performing Data Analysis
 
-The code for connecting jupyter notebook to postgresql database for accessing the tables and the implementation of code for performing data analysis is present in the jupyter notebook titled "Ishika - Assignment - Squadcast.ipynb".
+The python implementation code for connecting jupyter notebook to postgresql database for accessing the tables and for performing data analysis is present in the jupyter notebook titled "Ishika - Assignment - Squadcast.ipynb".
 Note: For executing the cells upload data to your postgresql database and connect using your respective credentials.
