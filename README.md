@@ -38,4 +38,5 @@ and
 ### Connecting jupyter notebook to postgresql database for accessing the tables and performing Data Analysis
 
 The **Python** implementation code for connecting jupyter notebook to postgresql database for accessing the tables and for performing data analysis with comments for explanation is present in the jupyter notebook titled **"Ishika - Assignment - Squadcast.ipynb"**.
+
 Note: For executing the cells upload data to your postgresql database and connect using your respective credentials.
