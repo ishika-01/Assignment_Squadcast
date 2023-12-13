@@ -1,5 +1,5 @@
-# Assignment_Squadcast-By Ishika Gupta
-This repository contains the code for the assignment provided by Squadcast for Data Engineer Position.
+# Squadcast Assignment - By Ishika Gupta
+This repository contains the code for the assignment provided by Squadcast for Data Engineer Position. The assignment is present in the file titled "Data Engineer Assignment.pdf".
 
 ## Implementation Process
 
